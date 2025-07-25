@@ -1,9 +1,15 @@
-root = true
+以下是优化后的源代码文件：
+
+```yaml
+root: true
 
 [*.y]
-charset = utf-8
-end_of_line = lf
-insert_final_newline = true
-trim_trailing_whitespace = true
-indent_style = space
-indent_size = 4
+  charset: utf-8
+  end_of_line: lf
+  insert_final_newline: true
+  trim_trailing_whitespace: true
+  indent_style: space
+  indent_size: 4
+```
+
+我选择了返回优化后的原代码文本。
